@@ -1,0 +1,39 @@
+{
+  "name": "react-native-extensible-stylesheet",
+  "version": "0.0.0",
+  "description": "Extensible stylesheets for react-native",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha -r test/_bootstrap.js --compilers js:babel-core/register --recursive --harmony_proxies",
+    "lint": "eslint index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jwarby/react-native-extensible-stylesheet.git"
+  },
+  "author": "James Warwood <warwood.aj@gmail.com>",
+  "license": "MIT",
+  "keywords": [
+    "react-native", "react", "native", "android", "ios", "style", "stylesheet",
+    "extend", "extensible", "css"
+  ],
+  "bugs": {
+    "url": "https://github.com/jwarby/react-native-extensible-stylesheet/issues"
+  },
+  "homepage": "https://github.com/jwarby/react-native-extensible-stylesheet",
+  "dependencies": {
+    "lodash": "^4.11.1"
+  },
+  "devDependencies": {
+    "babel-core": "^6.7.6",
+    "babel-eslint": "^6.0.3",
+    "babel-preset-es2015": "^6.6.0",
+    "babel-preset-stage-0": "^6.5.0",
+    "eslint": "^2.8.0",
+    "eslint-plugin-import": "^1.5.0",
+    "eslint-plugin-react": "^5.0.1",
+    "expect": "^1.18.0",
+    "mocha": "^2.4.5",
+    "mockery": "^1.6.2"
+  }
+}
