@@ -113,4 +113,4 @@ Coming soon to an `example/` folder near you!
 
 ## Changelog
 
-~~No releases yet~~
+- `22nd April 2016` - `v0.0.1` - First released version
