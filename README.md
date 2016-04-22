@@ -114,4 +114,5 @@ Coming soon to an `example/` folder near you!
 
 ## Changelog
 
+- `22nd April 2016` - `v0.0.2` - Add missing devDependency `harmony-reflect`
 - `22nd April 2016` - `v0.0.1` - First released version
