@@ -1,4 +1,5 @@
-# react-native-extensible-stylesheet
+# react-native-extensible-stylesheet [![npm version](https://badge.fury.io/js/react-native-extensible-stylesheet.svg)](https://badge.fury.io/js/react-native-extensible-stylesheet)
+[![Build Status](https://travis-ci.org/jwarby/react-native-extensible-stylesheet.svg?branch=master)](https://travis-ci.org/jwarby/react-native-extensible-stylesheet)
 > Extensible stylesheets for react-native
 
 ## Overview
