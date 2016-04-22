@@ -14,8 +14,16 @@
   "author": "James Warwood <warwood.aj@gmail.com>",
   "license": "MIT",
   "keywords": [
-    "react-native", "react", "native", "android", "ios", "style", "stylesheet",
-    "extend", "extensible", "css"
+    "react-native",
+    "react",
+    "native",
+    "android",
+    "ios",
+    "style",
+    "stylesheet",
+    "extend",
+    "extensible",
+    "css"
   ],
   "bugs": {
     "url": "https://github.com/jwarby/react-native-extensible-stylesheet/issues"
@@ -33,6 +41,7 @@
     "eslint-plugin-import": "^1.5.0",
     "eslint-plugin-react": "^5.0.1",
     "expect": "^1.18.0",
+    "harmony-reflect": "^1.4.6",
     "mocha": "^2.4.5",
     "mockery": "^1.6.2"
   }
