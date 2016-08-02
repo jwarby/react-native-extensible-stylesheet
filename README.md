@@ -114,5 +114,6 @@ Coming soon to an `example/` folder near you!
 
 ## Changelog
 
+- `2nd August 2016` - `v0.0.3` - Ensure statics from base StyleSheet are copied onto ExtensibleStyleSheet
 - `22nd April 2016` - `v0.0.2` - Add missing devDependency `harmony-reflect`
 - `22nd April 2016` - `v0.0.1` - First released version
