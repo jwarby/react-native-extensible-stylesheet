@@ -49,4 +49,8 @@ class ExtensibleStyleSheet {
   }
 }
 
+for (const s in StyleSheet) {
+  ExtensibleStyleSheet[s] = ExtensibleStyleSheet[s] || StyleSheet[s]
+}
+
 export default ExtensibleStyleSheet
